@@ -29,13 +29,6 @@ class MohitKamboz:
         self.company = "Leveragers"
         self.education = "BTech IT @ CGC Landran"
         self.location = "India"
-        
-        # Professional Achievements
-        self.projects_delivered = "5+ Paid Websites"
-        self.project_value = "$600+ per website"
-        self.total_revenue = "$3000+"
-        
-        # Tech Stack
         self.frontend = ["HTML5", "CSS3", "JavaScript", "React"]
         self.backend = ["Python", "Django", "FastAPI", "Node.js"]
         self.specialization = ["Web Development", "Tools Development", "UI/UX"]
@@ -70,7 +63,7 @@ mohit.say_hi()
 <a href="https://www.youtube.com/@nukersop" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/programmer" target="_blank">
+<a href="https://discord.gg/cyborgs" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://github.com/Mohitkamboz" target="_blank">
