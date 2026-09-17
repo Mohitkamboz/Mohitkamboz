@@ -63,7 +63,7 @@ mohit.say_hi()
 <a href="https://www.youtube.com/@nukersop" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
 </a>
-<a href="https://discord.gg/cyborgs" target="_blank">
+<a href="https://discord.gg/d3v" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://github.com/Mohitkamboz" target="_blank">
